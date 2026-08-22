@@ -430,9 +430,6 @@ MonoBehaviour:
   distance: 5
   speed: 2
   rotationSpeed: 5
-  explosionPrefab: {fileID: 2857962265220071417, guid: f8eb58ebe4d1f254a9b49b939814a70d,
-    type: 3}
-  explosionDelay: 1
 --- !u!1 &2118013206
 GameObject:
   m_ObjectHideFlags: 0
@@ -544,5 +541,5 @@ SceneRoots:
   m_Roots:
   - {fileID: 1412132784}
   - {fileID: 193721012}
-  - {fileID: 1714278420}
   - {fileID: 2118013210}
+  - {fileID: 1714278420}
